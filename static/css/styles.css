@@ -304,7 +304,9 @@ footer {
     margin-right: 10%;
     text-align: justify;
 }
-
+.destaque {
+    color: red;
+}
 
 /* Responsividade melhorada */
 @media (max-width: 768px) {

@@ -4,3 +4,8 @@ Intervalo Médio: 32 (concursos entre aparições)
 Menor Intervalo: 4 (concursos)
 Maior Intervalo: 89 (concursos)
 Último Intervalo: 23 (concursos)
+
+
+ 
+
+ 
